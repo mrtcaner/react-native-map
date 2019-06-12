@@ -5,5 +5,5 @@ A simple react native app with Google Maps integration
 
 Inside share_places  
 
->>yarn
->>react-native run-android
+yarn  
+react-native run-android  

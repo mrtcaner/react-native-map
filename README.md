@@ -1,9 +1,9 @@
 # react-native-map
 A simple react native app with Google Maps integration
 
-##build
+## build
 
-Inside share_places  
+Inside share_places;  
 
-yarn  
-react-native run-android  
+>yarn  
+>react-native run-android  
